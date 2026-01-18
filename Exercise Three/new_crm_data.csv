@@ -1,0 +1,5 @@
+CustomerID,Name,Email,Phone,DateOfBirth
+101,John Doe,john@example.com,555-0123,04/12/1985
+102,Jane Smith,jane.smith@domain.org,,1990-07-22
+103,Bob Johnson,bob.j@oldmail.com,555-1122,1978-03-15
+105,Mike Davis,mike.d@newcrm.org,555-4321,06/15/1988
